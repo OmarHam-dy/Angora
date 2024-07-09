@@ -13,7 +13,7 @@
 
 ## Overview
 
-![screenshot](https://raw.githubusercontent.com/OmarHam-dy/Fokir-Portfolio/main/Angora.png)
+![screenshot](https://raw.githubusercontent.com/OmarHam-dy/Angora/main/Angora.png)
 
 
 - you can see demo on (https://omarham-dy.github.io/Angora/)
